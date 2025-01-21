@@ -1,0 +1,12 @@
+Introdução a Programação
+
+    Desenvolvimento 1:
+        
+        Resultado das sentenças:
+
+            1. Verdadeiro;
+            2. Falso;
+            3. Falso;
+            4. Falso;
+            5. Verdadeiro;
+            6. Falso;

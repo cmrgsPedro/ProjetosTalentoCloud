@@ -1,0 +1,23 @@
+// Caracteristicas veiculo
+int quantidadeRodas;
+float pesoBruto;
+int quantidadePessoas;
+
+se (quantidadeRodas == 2 ou quantidadeRodas == 3){
+    escreva("Categoria A")
+}
+senao se (quantidadeRodas == 4 e quantidadePessoas <= 8 e pesoBruto <= 3500.0){
+    escreva("Categoria B")
+}
+senao se (quantidadeRodas >= 4 e pesoBruto > 3500.0 e pesoBruto <=6000.0){
+    escreva("Categoria C")
+}
+senao se (quantidadeRodas >= 4 e quantidadePessoas > 8){
+    escreva("Categoria D")
+}
+senao se (quantidadeRodas >= 4 e pesoBruto > 6000.0){
+    escreva("Categoria E")
+}
+senao{
+    escreva("Categoria não identificada")
+}
